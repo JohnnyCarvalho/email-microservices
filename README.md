@@ -51,8 +51,10 @@ npm i @angular/cli
 ```
 ng add @angular/material
 ```
+### Front-end
+<img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/loading.gif"> - Em andamento.<br>
 
-### Back End
+### Back-end
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar repositório GitHub.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar projeto Spring.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar banner para o projeto.<br>
