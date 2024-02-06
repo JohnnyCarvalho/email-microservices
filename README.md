@@ -62,7 +62,6 @@ ng add @angular/material
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar criar função sendEmail dentro da services.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar repository.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar dtos de request e response (se necessário) para o projeto.<br>
-<img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar pasta mapper para separar a lógica.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar consumers para conectar ao serviço de filas CloudAMQP e consumeir as mensagens.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar pasta config com as configurações necessárias do projeto.<br>
 <img align="center" height="20" width="20" src="https://github.com/JohnnyCarvalho/email-microservices/blob/master/email-services/assets/ok.png"> - Criar implementar as rotas necessárias na ```application.properties.yml``` utilizando variáveis de ambiente para acessar.<br>
