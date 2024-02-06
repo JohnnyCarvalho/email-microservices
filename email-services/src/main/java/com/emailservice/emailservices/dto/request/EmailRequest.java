@@ -12,7 +12,6 @@ import lombok.extern.jackson.Jacksonized;
 @Jacksonized
 public class EmailRequest {
 
-
     private String userName;
 
     @NotBlank(message = "This email can`t blank!")
