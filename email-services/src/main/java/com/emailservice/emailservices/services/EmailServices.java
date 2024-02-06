@@ -28,10 +28,9 @@ public class EmailServices {
     @Value("${spring.mail.username}")
     private String emailFrom;
 
-    @Transactional
     public Email sendEmail(Email request) {
 
-        try{
+        try {
             request.setSendDateEmail(LocalDateTime.now());
             request.setEmailFrom(emailFrom);
 

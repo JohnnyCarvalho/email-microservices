@@ -26,6 +26,7 @@ public class RabbitMqConfig {
 
     /**
      * This function converts the incoming JSON object into a Java object to avoid potential exceptions.
+     *
      * @return A new Jackson2JsonMessageConverter object.
      */
 
